@@ -1,8 +1,10 @@
 .headerDiv{
     background-color: lightgreen;
+    color: whitesmoke;
 }
 footer{
     background-color: lightgreen;
+    color: aliceblue;
 }
 .table{
     border: 1px;
